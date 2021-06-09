@@ -1,4 +1,11 @@
-# 👋 Hello, I'm Vagabond
+# 👋 Hello
 
 
-## yea just testing this
+## I'm a 16 year old photographer, investor, and project starter.
+
+### Here's what I'm working on:
+
+- Dmod
+
+- AssetX
+
