@@ -7,7 +7,7 @@
 
 - [Dmod](https://dmod.gg)
 
-- [AtsetX](https://assetx.org)
+- [AssetX](https://assetx.org)
 
 - [My Website](https://vagabondit.surge.sh)
 
