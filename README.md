@@ -11,5 +11,5 @@
 
 - [My Website](https://vagabondit.surge.sh)
 
-- [Photography Lounge](https://discord.gg/Photography)
+- [Photography Lounge](https://discord.photography)
 
