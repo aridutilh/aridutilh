@@ -13,3 +13,4 @@
 
 - [Photography Lounge](https://discord.photography)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:397142169506414592)
