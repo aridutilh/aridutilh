@@ -1,7 +1,7 @@
-# 👋 Hello
+# 👋 Hiya
 
 
-## I'm a 16 year old photographer, investor, and project starter.
+## I'm a 16 year old photographer, investor, and startup enthusiast.
 
 <a href="https://discord.com/users/397142169506414592">
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
