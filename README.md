@@ -1,7 +1,7 @@
 # 👋 Hiya
 
 
-## 16, curious about javascript, community building, and web3.
+## 17, curious about javascript, community building, and web3.
 
 <a href="https://discord.com/users/397142169506414592">
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
