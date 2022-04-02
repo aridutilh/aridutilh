@@ -13,7 +13,7 @@
 
 - [Snaps](https://snaps.so)
 
-- [BuilderGroop](https://buildergroop.com)
+- [Buildergroop](https://buildergroop.com)
 
 - [Photography Lounge](https://discord.photography)
 
