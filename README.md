@@ -9,8 +9,6 @@
 
 ### Here's what I'm working on:
 
-- [Dmod](https://dmod.gg)
-
 - [Snaps](https://snaps.so)
 
 - [Buildergroop](https://buildergroop.com)
