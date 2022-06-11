@@ -1,4 +1,4 @@
-# 👋 Hiya
+# 👋 Howdy
 
 
 ## 17, curious about javascript, community building, and web3.
