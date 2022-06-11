@@ -15,4 +15,4 @@
 
 - [Photography Lounge](https://discord.gg/photography)
 
-### Want to learn more about me? Check out my [Website.](https://vagabond.gg)
+### Want to learn more about me? Check out my [Website.](https://ari.ceo)
