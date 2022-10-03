@@ -9,8 +9,6 @@
 
 ### Here's what I'm working on:
 
-- [Snaps](https://snaps.so)
-
 - [Buildergroop](https://buildergroop.com)
 
 - [Photography Lounge](https://discord.gg/photography)
