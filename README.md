@@ -1,7 +1,7 @@
 # 👋 Greetings
 
 
-## 18, non-technical founder trying to do technical things sometimes
+## 18yo non-technical founder trying to do technical things sometimes
 
 <a href="https://discord.com/users/397142169506414592">
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
