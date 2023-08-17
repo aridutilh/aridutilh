@@ -9,6 +9,8 @@
 
 Here's what I'm working on:
 
+- [UltraRice](https://ultrarice.org)
+
 - [Buildergroop](https://buildergroop.com)
 
 - [Photography Lounge](https://discord.gg/photography)
