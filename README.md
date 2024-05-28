@@ -9,6 +9,8 @@
 
 Here's what I'm working on:
 
+- [Bagel Fund](https://bagel.fund)
+
 - [UltraRice](https://ultrarice.org)
 
 - [Buildergroop](https://buildergroop.com)
