@@ -7,7 +7,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
 </a>
 
-Here's what I'm working on:
+I work days (and sometimes nights) at [On Deck](https://beondeck.com), but when I'm not, I work on:
 
 - [Bagel Fund](https://bagel.fund)
 
