@@ -1,13 +1,13 @@
 👋 Greetings
 
 
-19yo non-technical founder trying to do technical things sometimes
+20yo non-technical founder trying to do technical things sometimes
 
 <a href="https://discord.com/users/397142169506414592">
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
 </a>
 
-I work days (and sometimes nights :) at [ODF](https://beondeck.com), but when I'm not, I work on:
+I work days (and sometimes nights :) at [ODF](https://joinodf.com), but when I'm not, I work on:
 
 - [Bagel Fund](https://bagel.fund)
 
