@@ -7,7 +7,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
 </a>
 
-I work days (and nights :) at [ODF](https://joinodf.com), but when I'm not, I work on:
+I work days (and nights :) at [ODF](https://joinodf.com)/[Solo](https://solofounders.com), but when I'm not, I work on:
 
 - [Bagel Fund](https://bagel.fund)
 
