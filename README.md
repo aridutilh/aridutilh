@@ -9,6 +9,8 @@
 
 I work days (and nights :) at [Solo](https://solofounders.com), but when I'm not, I work on:
 
+- [Author](https://author.computer)
+  
 - [Bagel Fund](https://bagel.fund)
 
 - [UltraRice](https://ultrarice.org)
