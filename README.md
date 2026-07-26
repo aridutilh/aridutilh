@@ -7,7 +7,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
 </a>
 
-I work days (and nights :) at [Solo](https://solofounders.com), but when I'm not, I work on:
+I work days (and nights :) at [Solo Founders](https://solofounders.com), but when I'm not, I work on:
 
 - [Author](https://author.computer)
   
