@@ -13,9 +13,9 @@ I work days (and nights :) at [Solo Founders](https://solofounders.com), but whe
   
 - [Bagel Fund](https://bagel.fund)
 
-- [UltraRice](https://ultrarice.org)
+- [UltraRice](https://ultrarice.org) (inactive)
 
-- [Buildergroop](https://buildergroop.com)
+- [Buildergroop](https://buildergroop.com) (inactive)
 
 - [Photography Lounge](https://discord.gg/photography)
 
